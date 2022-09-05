@@ -1,0 +1,1 @@
+Create a data/csv and data/json folder in root 
